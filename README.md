@@ -2,6 +2,6 @@
 # Automatic Auditory Brainstem Response Waveform Detection
   
 ## Team Members
-  Jax Marrone (jpmarrone), Sungyu Choi (choi691), Richard Stanley 
+  Jax Marrone (jpmarrone), Sungyu Choi (choi691), Richard Stanley (RStanley)
 
 ## Project Description
