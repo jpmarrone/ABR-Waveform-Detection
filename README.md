@@ -1,8 +1,8 @@
 # ABR-Waveform-Detection
-#Title 
+# Title 
   "Automatic Auditory Brainstem Response Waveform Detection"
 
-##Team Members
+## Team Members
   Jax Marrone (jpmarrone), Sungyu Choi (choi691), Richard Stanley 
 
-##Project Description
+## Project Description
